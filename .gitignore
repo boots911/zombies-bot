@@ -1,0 +1,8 @@
+node_modules/
+.env
+*.sqlite
+data/
+*-preview.png
+.claude/
+CLAUDE.md
+New Text Document.txt
